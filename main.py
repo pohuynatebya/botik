@@ -12,6 +12,7 @@ logging.basicConfig(level=logging.INFO)
 bot = Bot(token=TOKEN, parse_mode=types.ParseMode.HTML)
 dp = Dispatcher(bot)
 
+
 def get_menu(menu_name):
 	match menu_name:
 		case 'startmenu':
