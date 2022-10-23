@@ -14,7 +14,7 @@ dp = Dispatcher(bot)
 
 
 def get_menu(menu_name):
-	match menu_name:
+	match ⁹menu_name:
 		case 'startmenu':
 			buttons = [
 				types.InlineKeyboardButton(text='⭐️Owner', url='https://t.me/kamolgks'),
