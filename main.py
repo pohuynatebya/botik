@@ -4,8 +4,8 @@ from aiogram.dispatcher.filters import Text
 import re
 import logging
 
-TOKEN = "5680571181:AAHPgvLhbEtGKXSL9DX0yTtdIx_cJWDcmdU"
-OWNER = '-813072413'
+TOKEN = "5926007741:AAHNITMB3zOHkQ4SDXCE3rIx8JmQjAiUUhI"
+OWNER = '-871222275'
 
 logging.basicConfig(level=logging.INFO)
 
